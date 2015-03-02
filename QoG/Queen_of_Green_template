@@ -1,0 +1,435 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN""http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title></title>
+<!-- Name of the email campaign-->
+<!-- This is the style formatting the email for a phone sized screen -->
+<style> 
+.appleLinks a {
+color: #26797F;
+}
+@media only screen and (max-width: 480px) {
+img[class="articleimage"]{
+  width: 150px!important;
+  height: 100px!important;
+  margin-bottom: 5px;
+}
+
+td[class="cell"] {
+width: 325px!important;
+}
+
+img[class="header"]{
+  width: 325px!important;
+  height: auto;
+}
+img [class="mainimage"]{
+  padding-left: 0px;
+}
+table[class="articleImage"]{
+  padding-left: 0px!important;
+  float:left;
+}
+
+table[class="table"], td[class="cell"] {
+width: 325px!important;
+}
+table[class="image"] {
+margin-bottom: 5px!important;
+}
+img[class="footer"]{
+  float : left!important;
+  margin-top: 15px!important;
+}
+}
+</style>
+<!-- End of the style formatting-->
+</head>
+<body style="-webkit-font-smoothing: antialiased; width: 100% !important; background-color: #e4e4e4; -webkit-text-size-adjust: none" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+<table class="table" width="100%" cellpadding="0" cellspacing="0" border="0"  bgcolor="#e4e4e4">
+<!-- this table expands to fill all available space -->
+<tbody>
+<tr>
+<td bgcolor="#e4e4e4" width="100%" align="center">
+<table class="table" width="600" cellpadding="0" cellspacing="0" border="0" class="table" bgcolor="#e4e4e4">
+<!-- this table lays out the outer dimensions of the email -->
+<tbody>
+<tr>
+<!-- Header Image table row-->
+<td width="600" class="cell" align="center">
+
+<table width="600" height="" cellpadding="0" cellspacing="0" border="0" class="table">
+<!-- this table contains the header image -->
+
+<tbody>
+<tr valign="top">
+<td cellpadding="0" bgcolor="#e4e4e4" class="header" align="left"><a href="http://www.davidsuzuki.org/what-you-can-do/queen-of-green/"><img alt="David Suzuki's Queen of Green" src="http://davidsuzuki.org/images/email/mastheads/QoG-email-masthead.jpg" width="600" height="140" class="header" border="0" /></a></td>
+</tr>
+</tbody>
+</table>
+<!-- End of Header Image table -->
+</td>
+</tr>
+<!-- End of Header Image table row -->
+<tr valign="top">
+<!-- Main Content outer table row -->
+<td width="600" class="cell" align="left" bgcolor="#FFFFFF">
+<!-- top featured section -->
+
+<table class="table" style="width: 600px;" border="0" cellspacing="0" cellpadding="20">
+<tbody>
+<tr>
+<td class="cell" style="border-bottom: #efefef 1px solid;" bgcolor="#33a5a6" width="600">
+<div class="mktEditable" id="EmailTitle">
+<h3 style="color: #ffffff; font-size: 24px; line-height: 130%; font-family: Arial,sans-serif; margin-top: 0; margin-bottom: 0; padding-top: 0; padding-bottom: 0; font-weight: normal;">Queen of Green Monthly Digest &ndash; Month Year</h3>
+</div>
+<br />
+<div class="mktEditable" id="emailDescription">
+<p style="color: #ffffff; font-size: 14px; line-height: 130%; font-family: Arial,sans-serif; margin-top: 0; margin-bottom: 0; padding-top: 0; padding-bottom: 0; font-weight: normal;"><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ In metus nibh, tristique at rhoncus in, pretium non mauris.
+ Donec <a style="color: #ffffff; text-decoration: underline;" href="http://toxicbreakup.ca/">faucibus sollicitudin nunc eu luctus</a>.
+ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.<a style="color: #ffffff; text-decoration: underline;" href="http://toxicbreakup.ca/"></a></strong>
+</div>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- end of top featured section -->
+<!-- FIRST ARTICLE CONTENT -->
+<table cellpadding="0" cellspacing="0" width="600" border="0" style="border-collapse: collapse;" class="table">
+<tbody>
+<tr>
+<td width="3" bgcolor="#33a5a6"></td>
+<td width="597">
+<table class="table" cellpadding="16" cellspacing="0" width="597" border="0" style="border-collapse: collapse;">
+<tbody>
+<tr valign="top">
+<td align="left" style="font-family: Arial; font-size: 14px; font-weight: normal; color: #000000; line-height: 140%;">
+<!-- FLOATING ARTICLE IMAGE -->
+<table class="articleImage" cellspacing="0" align="left" width="150" cellpadding="0" border="0" class="hide" style="padding-right: 16px; margin-bottom: 16px;">
+<tbody>
+<tr>
+<td align="right">
+<div class="mktEditable" id="FirstImage">
+<img class="mainimage" src="#" alt="place an image here" width="150" height="150" border="0" />
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- END FLOATING IMAGE -->
+<div class="mktEditable" id="mainContent">
+<h1 style="font-family: Arial,sans-serif; font-size: 18px; line-height: 1.2em; margin-top:0;"><span class="mktEditable" id="firstHeadingH1">This is a headline just to see what happens when it spans more than one line!</span></h1>
+</div>
+<!-- end mktEditable -->
+<div class="mktEditable" id="FirstContent">
+<p>Lorem ipsum dolor sit amet, <a style="color: #00a1b9; text-decoration: none;" href="http://pinterest.com/grnqueen/green-my-spring-clean-contest/">consectetur adipiscing elit</a>.
+ In metus nibh, tristique at rhoncus in, pretium non mauris.
+ Donec faucibus sollicitudin nunc eu luctus.
+ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+ Pellentesque at purus eu ipsum imperdiet semper.
+ Aliquam erat volutpat.
+ Cras scelerisque, lorem nec venenatis vehicula</p>
+</div>
+<!-- end mktEditable -->
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- END ARTICLE BODY -->
+<!-- END FIRST ARTICLE -->
+<!-- SPACER ROW -->
+<table class="table" cellpadding="0" cellspacing="0" width="600" border="0" style="border-collapse: collapse; height: 2px;" bgcolor="#e4e4e4">
+<tbody>
+<tr>
+<td height="2"> </td>
+</tr>
+</tbody>
+</table>
+<!-- SPACER ROW -->
+<!-- SECOND ARTICLE CONTENT -->
+<table cellpadding="0" cellspacing="0" width="600" border="0" style="border-collapse: collapse;" class="table">
+<tbody>
+<tr>
+<td width="3" bgcolor="#33a5a6"></td>
+<td width="597">
+<table class="table" cellpadding="16" cellspacing="0" width="597" border="0" style="border-collapse: collapse;">
+<tbody>
+<tr valign="top">
+<td align="left" style="font-family: Arial; font-size: 14px; font-weight: normal; color: #000000; line-height: 140%;">
+<!-- FLOATING ARTICLE IMAGE -->
+<table class="articleImage" cellspacing="0" align="left" width="150" cellpadding="0" border="0" class="hide" style="padding-right: 16px; margin-bottom: 16px;">
+<tbody>
+<tr>
+<td align="right">
+<div class="mktEditable" id="SecondImage">
+<img class="mainimage" src="#" alt="place an image here" width="150" height="150" border="0" />
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- END FLOATING IMAGE -->
+<div class="mktEditable" id="secondContent">
+<h1 style="font-family: Arial,sans-serif; font-size: 18px; line-height: 1.2em; margin-top:0;"><span class="mktEditable" id="secondHeadingH1">This is a headline just to see what happens when it spans more than one line!</span></h1>
+</div>
+<!-- end mktEditable -->
+<div class="mktEditable" id="secondHeading">
+<p>Lorem ipsum dolor sit amet, <a style="color: #00a1b9; text-decoration: none;" href="http://pinterest.com/grnqueen/green-my-spring-clean-contest/">consectetur adipiscing elit</a>.
+ In metus nibh, tristique at rhoncus in, pretium non mauris.
+ Donec faucibus sollicitudin nunc eu luctus.
+ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+ Pellentesque at purus eu ipsum imperdiet semper.
+ Aliquam erat volutpat.
+ Cras scelerisque, lorem nec venenatis vehicula</p>
+</div>
+<!-- end mktEditable -->
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- END ARTICLE BODY -->
+<!-- END SEC ARTICLE -->
+<!-- SPACER ROW -->
+<table class="table" cellpadding="0" cellspacing="0" width="600" border="0" style="border-collapse: collapse; height: 2px;" bgcolor="#e4e4e4">
+<tbody>
+<tr>
+<td height="2"> </td>
+</tr>
+</tbody>
+</table>
+<!-- SPACER ROW -->
+<!-- THIRD ARTICLE CONTENT -->
+<table cellpadding="0" cellspacing="0" width="600" border="0" style="border-collapse: collapse;" class="table">
+<tbody>
+<tr>
+<td width="3" bgcolor="#33a5a6"></td>
+<td width="597">
+<table class="table" cellpadding="16" cellspacing="0" width="597" border="0" style="border-collapse: collapse;">
+<tbody>
+<tr valign="top">
+<td align="left" style="font-family: Arial; font-size: 14px; font-weight: normal; color: #000000; line-height: 140%;">
+<!-- FLOATING ARTICLE IMAGE -->
+<table class="articleImage" cellspacing="0" align="left" width="150" cellpadding="0" border="0" class="hide" style="padding-right: 16px; margin-bottom: 16px;">
+<tbody>
+<tr>
+<td align="right">
+<div class="mktEditable" id="thirdImage">
+<img class="mainimage" src="#" alt="place an image here" width="150" height="150" border="0" />
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- END FLOATING IMAGE -->
+<div class="mktEditable" id="thirdContent">
+<h1 style="font-family: Arial,sans-serif; font-size: 18px; line-height: 1.2em; margin-top:0;"><span class="mktEditable" id="thirdHeadingH1">This is a headline just to see what happens when it spans more than one line!</span></h1>
+</div>
+<!-- end mktEditable -->
+<div class="mktEditable" id="thirdHeading">
+<p>Lorem ipsum dolor sit amet, <a style="color: #00a1b9; text-decoration: none;" href="http://pinterest.com/grnqueen/green-my-spring-clean-contest/">consectetur adipiscing elit</a>.
+ In metus nibh, tristique at rhoncus in, pretium non mauris.
+ Donec faucibus sollicitudin nunc eu luctus.
+ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+ Pellentesque at purus eu ipsum imperdiet semper.
+ Aliquam erat volutpat.
+ Cras scelerisque, lorem nec venenatis vehicula</p>
+</div>
+<!-- end mktEditable -->
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- END ARTICLE BODY -->
+<!-- END THIRD ARTICLE -->
+<!-- SPACER ROW -->
+<table class="table" cellpadding="0" cellspacing="0" width="600" border="0" style="border-collapse: collapse; height: 2px;" bgcolor="#e4e4e4">
+<tbody>
+<tr>
+<td height="2"> </td>
+</tr>
+</tbody>
+</table>
+<!-- SPACER ROW -->
+<!-- FOURTH ARTICLE CONTENT -->
+<table cellpadding="0" cellspacing="0" width="600" border="0" style="border-collapse: collapse;" class="table">
+<tbody>
+<tr>
+<td width="3" bgcolor="#33a5a6"></td>
+<td width="597">
+<table class="table" cellpadding="16" cellspacing="0" width="597" border="0" style="border-collapse: collapse;">
+<tbody>
+<tr valign="top">
+<td align="left" style="font-family: Arial; font-size: 14px; font-weight: normal; color: #000000; line-height: 140%;">
+<!-- FLOATING ARTICLE IMAGE -->
+<table class="articleImage" cellspacing="0" align="left" width="150" cellpadding="0" border="0" class="hide" style="padding-right: 16px; margin-bottom: 16px;">
+<tbody>
+<tr>
+<td align="right">
+<div class="mktEditable" id="FourthImage">
+<img class="mainimage" src="#" alt="place an image here" width="150" height="150" border="0" />
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- END FLOATING IMAGE -->
+<div class="mktEditable" id="FourthContent">
+<h1 style="font-family: Arial,sans-serif; font-size: 18px; line-height: 1.2em; margin-top:0;"><span class="mktEditable" id="FourthHeadingH1">This is a headline just to see what happens when it spans more than one line!</span></h1>
+</div>
+<!-- end mktEditable -->
+<div class="mktEditable" id="FourthHeading">
+<p>Lorem ipsum dolor sit amet, <a style="color: #00a1b9; text-decoration: none;" href="http://pinterest.com/grnqueen/green-my-spring-clean-contest/">consectetur adipiscing elit</a>.
+ In metus nibh, tristique at rhoncus in, pretium non mauris.
+ Donec faucibus sollicitudin nunc eu luctus.
+ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+ Pellentesque at purus eu ipsum imperdiet semper.
+ Aliquam erat volutpat.
+ Cras scelerisque, lorem nec venenatis vehicula</p>
+</div>
+<!-- end mktEditable -->
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- END ARTICLE BODY -->
+<!-- END FOURTH ARTICLE -->
+<!-- SPACER ROW -->
+<table class="table" cellpadding="0" cellspacing="0" width="600" border="0" style="border-collapse: collapse; height: 2px;" bgcolor="#e4e4e4">
+<tbody>
+<tr>
+<td height="2"> </td>
+</tr>
+</tbody>
+</table>
+<!-- SPACER ROW -->
+<!-- Signature  CONTENT -->
+<table cellpadding="0" cellspacing="0" width="600" border="0" style="border-collapse: collapse;" class="table">
+<tbody>
+<tr>
+<td width="3" bgcolor="#33a5a6"></td>
+<td width="597">
+<table class="table" cellpadding="16" cellspacing="0" width="597" border="0" style="border-collapse: collapse;">
+<tbody>
+<tr valign="top">
+<td align="left" style="font-family: Arial; font-size: 14px; font-weight: normal; color: #000000; line-height: 140%;">
+<p style="color: #000000; font-size: 14px; line-height: 130%; font-family: Arial,sans-serif; margin-left: 20px; margin-top: 10; margin-bottom: 0; padding-left: 20; padding-top: 10; padding-bottom: 0; font-weight: normal;">Sincerely,<br /> <img 
+src="http://www.davidsuzuki.org/images/Email-2012/Signature.jpeg" alt="" /><br /> Lindsay Coulter, Queen of Green<br /> <br /><a href="http://www.metronews.ca/vancouver/columnist/570457--queen-of-green-by-lindsay-coulter"></a>&nbsp;<a class="" 
+href="http://www.facebook.com/DavidSuzukisQueenofGreen"><img class="" src="http://www.davidsuzuki.org/images/Email-2012/facebook.jpeg" alt="" /></a>&nbsp;<a href="http://twitter.com/QueenofGreen"><img class="" src="http://www.davidsuzuki.org/images/Email-2012/twitter.jpeg" alt=""/></a>&nbsp;<a 
+href="http://www.youtube.com/user/DavidSuzukiFDN#g/c/11901618371F0683"><img class="" src="http://www.davidsuzuki.org/images/Email-2012/youtube.jpeg" alt="" /></a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- END ARTICLE BODY -->
+<!-- END FOURTH ARTICLE -->
+<!-- SPACER ROW -->
+<table class="table" cellpadding="0" cellspacing="0" width="600" border="0" style="border-collapse: collapse; height: 2px;" bgcolor="#e4e4e4">
+<tbody>
+<tr>
+<td height="2"> </td>
+</tr>
+</tbody>
+</table>
+<!-- SPACER ROW -->
+<!-- FOOTER -->
+<table class="table" cellpadding="0" cellspacing="0" width="600" border="0" style="border-collapse: collapse;">
+<tbody>
+<tr>
+<td width="3" bgcolor="#33a5a6"></td>
+<td class="cell" width="597">
+<table class="table" cellpadding="16" cellspacing="0" width="597" border="0" style="border-collapse: collapse;">
+<tbody>
+<tr valign="top">
+<td align="left" style="font-family: Arial; font-size: 14px; font-weight: normal; color: #000000; line-height: 140%;">
+<!-- floating right donate button -->
+<table cellspacing="0" align="right" width="120" cellpadding="0" border="0" class="hide">
+<tbody>
+<tr>
+<td style="padding-top: .4em" align="right"><a href="https://secure.e2rm.com/registrant/donate.aspx?EventID=56870&utm_campaign=QoG&utm_source=Februarynews&utm_medium=email&utm_content=Button_Donate_bottom"><img border="0" 
+src="http://community.davidsuzuki.org/rs/davidsuzukifoundation/images/donatetoday.jpg" width="100" bgcolor="#e4e4e4" alt="Donate Today" /></a></td>
+</tr>
+</tbody>
+</table>
+<!-- END floating right donate button -->
+<p style="text-align: left; color: #000000; font-size: 14px; line-height: 130%; font-family: Arial,sans-serif; margin-top: 0; margin-bottom: 0; padding-top: 0; padding-bottom: 0; font-weight: normal"><a 
+href="https://secure.e2rm.com/registrant/donate.aspx?EventID=56870&utm_campaign=QoG&utm_source=Februarynews&utm_medium=email&utm_content=Footer_Link_SupportDSF" style="color: #33a5a6; text-decoration: none"><strong>Support the David Suzuki Foundation</strong></a><strong>!</strong> Our dedicated 
+team ensures that even the smallest contributions go a long way towards protecting nature in Canada.</p>
+<img alt="" align="right" src="http://community.davidsuzuki.org/rs/davidsuzukifoundation/images/tagline.gif" style="margin-bottom: 7px" class="footer">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- END FOOTER -->
+
+</tbody>
+</table>
+<!-- END Main Content Layout Row Layout Table -->
+</td>
+</tr>
+<!-- End Main content outer table row -->
+</tbody>
+</table>
+<!-- End Outer Dimension Layout table (the 600px limiter) -->
+</td>
+</tr>
+</tbody>
+</table>
+<!-- End overall table -->
+<!-- ADMIN FOOTER -->
+
+<table class="table" border="0" cellspacing="0" width="100%" bgcolor="#e4e4e4">
+<!-- this table expands to fill all available space --> 
+<tbody>
+<tr>
+<td class="cell" width="100%" align="center" bgcolor="#e4e4e4">
+<table class="table" border="0" cellspacing="0" cellpadding="5" width="600" bgcolor="#e4e4e4">
+<tbody>
+<tr>
+<td class="cell" width="600" align="left">
+<div id="adminFooter" class="mktEditable">
+<p style="font-family: Arial;font-color: #aaa7a2; font-size: 11px; line-height: 15px;">This email was sent to {{lead.Email Address}}.
+ To configure which emails we send you, please <a style="color: #26797f;" href="http://community.davidsuzuki.org/preferenceCentre.html?mkt_tok=##MKT_TOK##">manage your content preferences here</a>.
+ If you no longer wish to receive any email from the David Suzuki Foundation, you can <a class="mktNoTrack" style="color: #26797f;" href="http://community.davidsuzuki.org/emailUnsubscribe.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">unsubscribe</a> at any time.</p>
+<p style="font-family: Arial;font-color: #aaa7a2; font-size: 11px; line-height: 15px;">The David Suzuki Foundation is a registered charity in both Canada (BN 127756716RR0001) and the United States (94-3204049).
+ We are located at 219-2211 West 4th Avenue, Vancouver, B.C., V6K 4S2, and we also have offices in Montreal and Toronto.
+ Please visit our website for more information on how to <a class="mktNoTrack" style="color: #26797f;" href="http://www.davidsuzuki.org/about/contact/">contact us.</p>
+</div>
+<!-- end mktEditable--></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- END ADMIN FOOTER -->
+
+</body>
+</html>
